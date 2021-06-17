@@ -7,4 +7,5 @@ package com.hsh;
  */
 public class HelloGit {
     private int id;
+    private String name;
 }
